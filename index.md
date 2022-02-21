@@ -90,8 +90,6 @@ levels.
 
 ### SKILLS
 
-<br>
-
 - C/c++
 - Python
 - MySQL
