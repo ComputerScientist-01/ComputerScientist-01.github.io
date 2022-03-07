@@ -69,15 +69,21 @@ levels.
 
 ### COURSES
 
-- [Business Statistics and Analysis Specialization](/pdf/Excel_specialization_.pdf) - Rice University - Coursera
-- [Deep Learning Specialization](/pdf/Deep_Learning_specilization.pdf) - Deep Learning.ai - Coursera
-- [Machine Learning](/pdf/Machine_Learning_coursera.pdf) - Stanford University - Coursera
-- [Tableau for Data Science](/pdf/Tableau_data_science.pdf) - Udemy
-- [Python Developer Course](/pdf/Python_course.pdf) - Udemy
+- [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/BJE7QHW5QNXW) - Coursera
+- [Build Your Portfolio Website with HTML and CSS](https://www.coursera.org/account/accomplishments/certificate/KD8AUYY6HFHG) - Coursera
+- [Open Source Software Development Methods](https://www.coursera.org/account/accomplishments/certificate/QSKY4H9BLRHN) - Coursera
+- [Practical Introduction to the Command Line](https://www.coursera.org/account/accomplishments/certificate/L6AVX9JJVM94) - Coursera
+- [Multiple Linear Regression with scikit-learn](https://www.coursera.org/account/accomplishments/certificate/TNG9ECTE7WQ9) - Coursera
+- [Object-Oriented Data Structures in C++](https://www.coursera.org/account/accomplishments/certificate/Q9G6YCJ8A7B6) - Coursera
+- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/KF9CEDD7VEBE) - Coursera
+- [Create Your First Game with Python](https://www.coursera.org/account/accomplishments/certificate/D7STFJ9GE6UW) - Coursera
+- [Building Web Applications in PHP](https://www.coursera.org/account/accomplishments/certificate/34W4CMP7YD5Q) - Coursera
+- [Data Science Math Skills](https://www.coursera.org/account/accomplishments/certificate/N2HH8E2AHVLA) - Coursera
+- [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/K5PULQ5MS8ML) - Coursera
 
 ---
 
-### COMPETITIONS
+### Hackathons
 
 - ### Hack Jaipur 2020
   Our group's idea was to use summarization methods for an office environment. It is used to summarize meetings by
