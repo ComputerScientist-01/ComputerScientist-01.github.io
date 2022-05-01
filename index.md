@@ -64,7 +64,12 @@ levels.
   <br>
   • The test covered basic topics of Data Structures (such as Arrays, Strings) and
   Algorithms (such as Sorting and Searching).
-
+  
+- [Database Foundations](pdf/Oracle-Course-Certificate.pdf)
+  <br>
+  _Oracle_
+  <br>
+  • Learnt database design techniques , designed databases using a modelling tool , were introduced to SQL to implement and query databases using hands-on activities.
 ---
 
 ### COURSES
